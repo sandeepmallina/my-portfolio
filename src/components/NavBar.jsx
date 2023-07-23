@@ -30,11 +30,11 @@ const NavBar = () => {
       <div className="">
         <h1 className="text-5xl font-signature ml-2">Sandeep</h1>
       </div>
-      <ul className="hidden md:flex">
+      <ul className="hidden  md:flex  font-medium  ">
         {items.map(({ id, link }) => (
           <li
             key={id}
-            className="px-4 cursor-pointer capitalize text-gray-500 hover:scale-105 duration-200"
+            className="px-4 cursor-pointer capitalize text-gray-500 hover:scale-105 duration-200 md:text-gray-400"
           >
             <Link to={link} smooth duration={500}>
               {link}
@@ -55,7 +55,7 @@ const NavBar = () => {
           {items.map(({ id, link }) => (
             <li
               key={id}
-              className="py-6 text-4xl cursor-pointer capitalize text-gray-500 hover:scale-105 duration-200"
+              className="py-6 text-4xl   cursor-pointer capitalize text-gray-500 hover:scale-105 duration-200"
             >
               <Link
                 onClick={() => {

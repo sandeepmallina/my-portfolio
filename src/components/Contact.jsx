@@ -23,12 +23,14 @@ const Contact = () => {
             <input
               type="text"
               name="name"
+              required
               placeholder="Enter your name"
               className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
             />
             <input
-              type="text"
+              type="email"
               name="email"
+              required
               placeholder="Enter your emial"
               className="my-4 p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
             />
@@ -36,6 +38,7 @@ const Contact = () => {
               name="message"
               id=""
               rows="10"
+              required
               placeholder="Enter your message"
               className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
             ></textarea>

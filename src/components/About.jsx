@@ -13,21 +13,23 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
-          dolor ad, eligendi dicta doloribus illo dolore quibusdam impedit illum
-          sit ipsam ratione nam mollitia quam, ullam a eius magnam nobis
-          veritatis ducimus sed. Perferendis, natus debitis ullam ducimus
-          excepturi quos eos! Necessitatibus molestias placeat quibusdam
-          provident quidem, blanditiis consequatur officia?
+          I'm a passionate and skilled frontend developer with a solid grasp of
+          core concepts such as React JS, Tailwind, MongoDB and Firebase. I have
+          a strong work ethic and a keen eye for design. I always plan my
+          projects carefully and deliver high-quality results on time. I enjoy
+          learning new technologies and solving challenging problems. I'm
+          interested in working remotely as I have the necessary equipment and
+          internet connection to do so. I believe I can communicate effectively
+          and collaborate well with your team online.
         </p>
         <br />
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit
-          voluptate, qui possimus corrupti fugit rem et, necessitatibus odio
-          placeat consequuntur commodi repellat at quae blanditiis explicabo
-          sint dicta harum rerum consequatur perferendis sunt! Laudantium quos
-          accusantium necessitatibus earum maxime in facilis sunt, labore
-          laborum omnis? Laudantium maiores aut aspernatur nostrum.
+          I'm currently in my final year of B.Tech at LPU, where I have learned
+          a lot of valuable skills and knowledge in web development. I'm very
+          excited to apply what I have learned to real-world projects and
+          challenges. I will be graduating in May 2024 and I'm looking for a
+          full-time opportunity as a frontend developer. I'm flexible and
+          adaptable to different work environments and schedules.
         </p>
       </div>
     </div>
