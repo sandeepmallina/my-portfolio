@@ -1,8 +1,8 @@
 import React from "react";
 import handmadeheaven from "../assets/portfolio/HandmadeHeaven.png";
 import installNode from "../assets/portfolio/installNode.jpg";
-import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
+import sudoku from "../assets/portfolio/sudoku (1).png";
+import epensetracker from "../assets/portfolio/expensetracker.png";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
@@ -16,15 +16,15 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: reactParallax,
+      src: epensetracker,
       demo: "#",
-      code: "#",
+      code: "https://github.com/sandeepmallina/expense-tracker",
     },
     {
       id: 3,
-      src: navbar,
+      src: sudoku,
       demo: "#",
-      code: "#",
+      code: "https://github.com/sandeepmallina/Sudoku",
     },
     {
       id: 4,
