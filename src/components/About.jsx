@@ -13,14 +13,20 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          I'm a passionate and skilled frontend developer with a solid grasp of
-          core concepts such as React JS, Tailwind, MongoDB and Firebase. I have
-          a strong work ethic and a keen eye for design. I always plan my
-          projects carefully and deliver high-quality results on time. I enjoy
-          learning new technologies and solving challenging problems. I'm
-          interested in working remotely as I have the necessary equipment and
-          internet connection to do so. I believe I can communicate effectively
-          and collaborate well with your team online.
+          I'm a passionate and skilled web developer with a solid grasp of core
+          concepts such as React JS, Tailwind, MongoDB and Firebase. I can
+          create stunning websites that will make your eyes pop out of your
+          head. I have a strong work ethic and a keen eye for design. I always
+          plan my projects carefully and deliver high-quality results on time. I
+          never miss a deadline, even if it means working 24/7 without sleep or
+          food. I enjoy learning new technologies and solving challenging
+          problems. I'm interested in working remotely as I have the necessary
+          equipment and internet connection to do so. I don't need any
+          supervision or guidance, I can figure everything out on my own. I
+          believe I can communicate effectively and collaborate well with your
+          team online. I'm always polite, respectful, and helpful to my
+          colleagues. I never complain, argue, or disagree with anyone. I'm the
+          perfect web developer you've been looking for.
         </p>
         <br />
         <p className="text-xl">
