@@ -3,7 +3,7 @@ import handmadeheaven from "../assets/portfolio/HandmadeHeaven.png";
 import installNode from "../assets/portfolio/installNode.jpg";
 import sudoku from "../assets/portfolio/sudoku (1).png";
 import epensetracker from "../assets/portfolio/expensetracker.png";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
+import cursoreffect from "../assets/portfolio/cursoreffect.png";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
 const Portfolio = () => {
@@ -28,9 +28,9 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: reactSmooth,
-      demo: "#",
-      code: "#",
+      src: cursoreffect,
+      demo: "https://codesandbox.io/s/github/sandeepmallina/Curson-effect",
+      code: "https://github.com/sandeepmallina/Cursor-effect",
     },
     {
       id: 5,
