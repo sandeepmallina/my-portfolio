@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import HeroImage from "../assets/heroImage.png";
+import HeroImage from "../assets/heroImage1.png";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 // import { Link } from "react-scroll";
@@ -18,15 +18,15 @@ const Home = () => {
     <div
       onMouseMove={handleMouseMove}
       name="home"
-      className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 relative"
+      className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 relative overflow-hidden "
     >
       <div
         className="w-60 h-60 absolute z-10 bg-gradient-to-r from-green-300 to-purple-500  rounded-full animate-spin-slow  blur-[110px]  "
         style={{ top: position.y, left: position.x }}
       ></div>
-      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4   md:flex-row ">
+      <div className="max-w-screen-lg mx-auto flex flex-col grow items-center justify-center h-full px-4   md:flex-row ">
         <div className="flex flex-col justify-center h-full ">
-          <h2 className="text-4xl   sm:text-7xl   font-bold text-white pt-5  ">
+          <h2 className="text-4xl  sm:text-7xl  font-bold text-white pt-5  ">
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
@@ -50,11 +50,11 @@ const Home = () => {
           </div>
         </div>
 
-        <div className="">
+        <div className="grow-0 flex justify-center">
           <img
             src={HeroImage}
             alt="my profile"
-            className="rounded-2xl mx-auto  w-[48%] md:w-full   z-20"
+            className="rounded-2xl  w-[70%]  md:w-full   z-20"
           />
         </div>
       </div>
