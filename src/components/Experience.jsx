@@ -3,7 +3,7 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import mongodb from "../assets/mongoDB.png";
+import mysql from "../assets/MySql.png";
 import github from "../assets/github.png";
 import nodejs from "../assets/nodejs.png";
 import tailwind from "../assets/tailwind.png";
@@ -47,9 +47,9 @@ const Experience = () => {
     },
     {
       id: 7,
-      src: mongodb,
-      title: "mongoDB",
-      style: "shadow-green-700 ",
+      src: mysql,
+      title: "MySql",
+      style: "shadow-blue-700 ",
     },
     {
       id: 8,
