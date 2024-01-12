@@ -14,7 +14,7 @@ const About = () => {
         </div>
         <p className="text-base mt-10 md:text-xl">
           Hello, I'm Sandeep, a passionate and skilled web developer with a
-          solid grasp of core concepts such as React JS, Tailwind, MongoDB and
+          solid grasp of core concepts such as React JS, Tailwind, MySql and
           Firebase. I can create stunning websites that are responsive,
           user-friendly, and aesthetically pleasing. I have a strong work ethic
           and a keen eye for design. I always plan my projects carefully and
